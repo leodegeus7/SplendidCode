@@ -1,0 +1,6 @@
+framework module Pods_SplendidCodeTests {
+  umbrella header "Pods-SplendidCodeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
