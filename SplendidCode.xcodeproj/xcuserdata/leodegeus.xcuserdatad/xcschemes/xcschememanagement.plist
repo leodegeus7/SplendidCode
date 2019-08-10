@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Networking.xcscheme_^#shared#^_</key>
+		<key>Networking.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>6</integer>
@@ -13,6 +13,34 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>CD366DA022FF40A200B837C5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CD366DB422FF40A400B837C5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CD366DBF22FF40A400B837C5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CD366DD822FF432C00B837C5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CD366DE022FF432D00B837C5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

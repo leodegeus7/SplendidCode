@@ -1,3 +1,2 @@
-let editedFiles = danger.git.modifiedFiles + danger.git.createdFiles
-message("These files have changed: \(editedFiles.joined())")
-
+import Danger
+import DangerSwiftLint // package: https://github.com/ashfurrow/danger-swiftlint.git
