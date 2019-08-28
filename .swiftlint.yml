@@ -29,4 +29,4 @@ file_length:
 cyclomatic_complexity:
     warning: 15
     error: 25
-reporter: "xcode"
+reporter: “checkstyle” # reporter type (xcode, json, csv, checkstyle, junit, html, emoji, sonarqube, markdown)

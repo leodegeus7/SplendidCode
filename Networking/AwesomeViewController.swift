@@ -18,7 +18,6 @@ public class AwesomeViewController: UIViewController {
 
   public func printHello() {
     print("hello")
-    var r = 0
   }
     /*
     // MARK: - Navigation
